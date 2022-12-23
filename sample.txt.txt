@@ -1,5 +1,4 @@
-<<<<<<< HEAD
+
 this is a sample file from the local machine2
-=======
-this is a sample file from the local machine1
->>>>>>> 89763adb388f0371cf459988b009c6989d8279ff
+
+
